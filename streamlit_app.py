@@ -6,7 +6,7 @@ cnx = st.connection("snowflake")
 session = cnx.session()
 
 # Write directly to the app
-st.title("Customize Your Smoothie! 🥤")
+st.title("My Parents new Healthy Diner! 🥤")
 st.write(
     """Choose the fruits you want in your custom Smoothie!"""
 )
